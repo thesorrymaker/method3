@@ -1,0 +1,37 @@
+@import "../../../style/constants";
+
+.datagrid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr 2fr 1fr 2fr 1fr;
+    justify-items: left;
+    align-items: center;
+    grid-column-gap: 10px;
+    border-bottom: 1px solid var(--borders-color);
+
+    &:last-child {
+        border-bottom: none;
+    }
+}
+
+.attempt-status {
+    border-radius: 5px;
+    padding: 7px 10px;
+    text-align: center;
+}
+
+
+.datagrid__cell-hit {
+    @extend .attempt-status;
+    background-color: var(--hit-dot-color);
+    color: var(--primary-background)
+}
+
+.datagrid__cell-miss {
+    @extend .attempt-status;
+    background-color: var(--miss-dot-color);
+    color: var(--primary-background)
+}
+
+.table {
+    border: 1px solid var(--primary-text);
+}

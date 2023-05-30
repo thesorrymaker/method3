@@ -1,0 +1,15 @@
+@import "constants.scss";
+@import "../components/header/header";
+@import "../pages/main/table/datagrid";
+@import "../pages/main/graph/graph";
+@import "card";
+
+* {
+  margin: 0;
+  padding: 0;
+  color: var(--primary-text)
+}
+
+:root {
+  background-color: var(--primary-background);
+}

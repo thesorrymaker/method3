@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="web_lab4-main:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="451eff99-81ba-47a2-afbf-1779c599c23a" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/.idea/artifacts/lab4webyh_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/lab4webyh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/babel.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/components/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/components/header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/login/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/login/components/login/LoginForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/login/components/login/LoginFormButtons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/login/components/login/LoginFormFields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/login/components/register/RegisterForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/login/components/register/RegisterFormButtons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/login/components/register/RegisterFormFields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/main/MainPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/main/form/Buttons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/main/form/Fields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/main/form/Form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/main/graph/Graph.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/main/graph/graph.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/main/table/GridHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/main/table/Table.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/main/table/VirtualizedGridV2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/pages/main/table/datagrid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/redux/attempts/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/redux/attempts/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/redux/attempts/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/service/ApplicationService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/service/JwtManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/style/card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/style/constants.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/style/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/utility/UrlState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/src/utility/useIsMobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4webyh/web/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/just_note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/assets/css/addtional.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/login/login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/main/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/main/mainForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/main/mainGraph.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/main/mainTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/reduxStore/action/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/reduxStore/reducer/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/reduxStore/state/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/reduxStore/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/components/register/register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/my-app/src/setupProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/DemoBackApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/configuration/Beans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/configuration/bean/BasicBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/configuration/bean/Dot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/configuration/bean/DotBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/controller/GetDotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/dao/AccountJpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/dao/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/dao/DotJpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/dao/DotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/service/DotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/service/dto/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/service/dto/ResponseDot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/java/com/example/demo_back/service/dto/ResultSignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/src/test/java/com/example/demo_back/DemoBackApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/DemoBackApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/configuration/Beans.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/configuration/bean/BasicBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/configuration/bean/Dot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/configuration/bean/DotBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/controller/GetDotController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/controller/RegisterController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/dao/AccountJpa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/dao/AccountRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/dao/DotJpa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/dao/DotRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/service/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/service/DotService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/service/dto/LoginResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/service/dto/ResponseDot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lyh/target/classes/com/example/demo_back/service/dto/ResultSignUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/ApplicationScoped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/cdi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/babel.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/components/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/components/header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/login/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/login/components/login/LoginForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/login/components/login/LoginFormButtons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/login/components/login/LoginFormFields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/login/components/register/RegisterForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/login/components/register/RegisterFormButtons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/login/components/register/RegisterFormFields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/main/MainPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/main/form/Buttons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/main/form/Fields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/main/form/Form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/main/graph/Graph.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/main/graph/graph.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/main/table/GridHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/main/table/Table.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/main/table/VirtualizedGridV2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/pages/main/table/datagrid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/redux/attempts/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/redux/attempts/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/redux/attempts/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/service/ApplicationService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/service/JwtManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/style/card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/style/constants.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/style/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/utility/UrlState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/src/utility/useIsMobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-client-master/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/ItmoWebLab4ServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/controller/AttemptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/dto/AddAttemptRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/dto/AddAttemptResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/dto/AttemptListWithOffsetResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/dto/JwtRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/dto/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/dto/RefreshJwtRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/filter/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/model/Attempt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/repository/AttemptsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/repository/UsersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/security/UserPasswordUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/security/jwt/JwtAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/security/jwt/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/security/jwt/JwtUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/service/attempt/AttemptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/service/attempt/AttemptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/service/auth/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/service/auth/AuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/service/logic/AreaChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/service/logic/AttemptConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/service/user/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/java/com/ruskaof/itmoweblab4server/service/user/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/itmo-web-lab4-server-master/system.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/src/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/untitled6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/artifacts/spring_web_app_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/artifacts/spring_web_app_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_postgresql_postgresql_42_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_aop_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_beans_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_context_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_core_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_expression_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_orm_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_test_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_tx_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_web_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/web-lab-4-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-4-main/backend/spring-web-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/.idea/artifacts/web_lab_yh4_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/babel.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/components/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/login/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/login/components/login/LoginForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/login/components/login/LoginFormButtons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/login/components/login/LoginFormFields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/login/components/register/RegisterForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/login/components/register/RegisterFormButtons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/login/components/register/RegisterFormFields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/main/MainPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/main/form/Buttons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/main/form/Fields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/main/form/Form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/main/graph/Graph.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/main/graph/graph.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/main/table/GridHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/main/table/Table.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/main/table/VirtualizedGridV2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/pages/main/table/datagrid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/redux/attempts/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/redux/attempts/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/redux/attempts/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/service/ApplicationService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/service/JwtManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/style/card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/style/constants.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/style/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/utility/UrlState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/src/utility/useIsMobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/src/web/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-lab-yh4/web-lab-yh4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.idea/artifacts/web4_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.idea/artifacts/web4_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/controller/GlobalBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/controller/ShotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/model/dao/ShotDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/model/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/model/entity/Shot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/model/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/util/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/util/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/util/JSONParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/util/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/util/RequestWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/java/com/example/web4/util/ShotValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/static/css/main.bd139b2b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/static/css/main.bd139b2b.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/static/js/787.7b50b694.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/static/js/787.7b50b694.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/static/js/main.136c6e1b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/static/js/main.136c6e1b.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web4-master/src/main/webapp/static/js/main.136c6e1b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab3-master/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab3-master/src/main/java/Data/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab3-master/src/main/webapp/resources/css/微信截图_20211217220840.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab3-master/src/main/webapp/resources/css/微信截图_20211217220849.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab3-master/src/main/webapp/resources/js/Ea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab3-master/src/main/webapp/resources/js/as1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab3-master/src/main/webapp/resources/js/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab3-master/src/main/webapp/resources/js/number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab3-master2/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab3-master2/web3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_lab4_main_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web_lab4-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_back/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_back/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_back/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_back/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_back/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_back/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_back/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_back/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_back/src/test/java/com/example/demo_back/DemoBackApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/.idea/demo_front.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/assets/css/addtional.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/login/login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/main/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/main/mainForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/main/mainGraph.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/main/mainTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/reduxStore/action/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/reduxStore/reducer/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/reduxStore/state/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/reduxStore/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/components/register/register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_front/my-app/src/setupProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/DemoBackApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/configuration/Beans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/configuration/bean/BasicBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/configuration/bean/Dot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/configuration/bean/DotBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/controller/GetDotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/dao/AccountJpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/dao/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/dao/DotJpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/dao/DotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/dto/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/dto/ResponseDot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/dto/ResultSignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/java/com/example/demo_back/service/DotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/test/java/com/example/demo_back/DemoBackApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-main2/web_lab4-main2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_assertj_assertj_core_3_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_mockito_mockito_core_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_postgresql_postgresql_42_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_aop_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_beans_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_context_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_core_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_expression_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_orm_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_test_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_tx_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_web_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/web_lab4-mainq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/demo_front/.idea/demo_front.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/.idea/artifacts/yh_web_lab4_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/babel.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/components/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/components/header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/login/LoginPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/login/components/login/LoginForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/login/components/login/LoginFormButtons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/login/components/login/LoginFormFields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/login/components/register/RegisterForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/login/components/register/RegisterFormButtons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/login/components/register/RegisterFormFields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/main/MainPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/main/form/Buttons.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/main/form/Fields.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/main/form/Form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/main/graph/Graph.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/main/graph/graph.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/main/table/GridHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/main/table/Table.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/main/table/VirtualizedGridV2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/pages/main/table/datagrid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/redux/attempts/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/redux/attempts/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/redux/attempts/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/service/ApplicationService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/service/JwtManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/style/card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/style/constants.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/style/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/utility/UrlState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/src/utility/useIsMobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/src/web/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yh-web-lab4/yh-web-lab4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/artifacts/Lab3_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/artifacts/Lab3_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/webapp/Main.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/webapp/WEB-INF/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/webapp/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/webapp/resources/CSS/index_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/webapp/resources/Clock/Clock.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/webapp/resources/Clock/Clock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/webapp/resources/Clock/ClockJS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/webapp/template/index_template.xhtml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Desktop/apache-maven-3.9.0" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N6R6VxvrsLdpmi8KHHAclv0TuL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/82728/Documents/GitHub/web/Lab3/web_lab4-mainq&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;aa81167b523dd5010215a23b438611f0&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\82728\Documents\GitHub\web\Lab3\web_lab4-main" />
+      <recent name="C:\Users\82728\Documents\GitHub\web\Lab3\web_lab4-main\demo_front\web" />
+      <recent name="C:\Users\82728\Documents\GitHub\web\Lab3\web_lab4-main\demo_front" />
+      <recent name="C:\Users\82728\Documents\GitHub\web\Lab3\web_lab4-main\web" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoBackApplication">
+    <configuration name="DemoBackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="demo_back" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo_back.DemoBackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/demo_front/my-app/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="$PROJECT_DIR$/../../../../../../../Program Files/nodejs/node" />
+      <package-manager value="C:\Program Files\nodejs\npm.cmd" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+      <item itemvalue="Spring Boot.DemoBackApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="451eff99-81ba-47a2-afbf-1779c599c23a" name="变更" comment="" />
+      <created>1678982369461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678982369461</updated>
+      <workItem from="1678982371129" duration="5986000" />
+      <workItem from="1678993031428" duration="3272000" />
+      <workItem from="1678998363171" duration="1841000" />
+      <workItem from="1679000243496" duration="16919000" />
+      <workItem from="1679059796774" duration="1894000" />
+      <workItem from="1679062622817" duration="1783000" />
+      <workItem from="1679066828440" duration="6120000" />
+      <workItem from="1679076184490" duration="1001000" />
+      <workItem from="1679316518479" duration="641000" />
+      <workItem from="1679319867476" duration="4356000" />
+      <workItem from="1679408715603" duration="3555000" />
+      <workItem from="1679598558384" duration="6310000" />
+      <workItem from="1679612787787" duration="2711000" />
+      <workItem from="1679645876642" duration="8000" />
+      <workItem from="1679654723179" duration="178000" />
+      <workItem from="1679660350346" duration="4603000" />
+      <workItem from="1679667354983" duration="39000" />
+      <workItem from="1679667412218" duration="10000" />
+      <workItem from="1679667618014" duration="7383000" />
+      <workItem from="1679911643809" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

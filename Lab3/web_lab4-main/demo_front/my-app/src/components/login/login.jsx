@@ -2,7 +2,7 @@ import React from "react";
 import $ from 'jquery';
 import {createBrowserHistory} from "history";
 import PropTypes from 'prop-types';
-import {getPassword,getUsername} from "../reduxStore/action/action";
+import {addDot, clearDots, getPassword, getUsername} from "../reduxStore/action/action";
 import {connect} from "react-redux";
 import '../../assets/css/addtional.css';
 
@@ -28,7 +28,8 @@ class Login extends React.Component {
                      </div>
                 </div>
                 <div>
-                    <button onClick={()=>login(username,password)} className={"col-xs-2 col-sm-1 .btn-primary margin_but"}>Log in</button>
+                    <div id="miss"></div>
+                    <button type="button" onClick={()=>login(username,password)} className={"col-xs-2 col-sm-1 .btn-primary margin_but"}>Log in</button>
                     <button onClick={()=>toRegister()} className={"col-xs-2 col-sm-1 .btn-primary"}>register</button>
                 </div>
             </form>
@@ -51,7 +52,7 @@ function mapStateToProps(state){
         }
     )
 }
-function sendAccount(username,password){
+/*function sendAccount(username,password){
     $.ajax({
             url: "api/main",
             method:"POST",
@@ -66,20 +67,70 @@ function sendAccount(username,password){
                     window.sessionStorage.setItem("password",password);
                     const history = createBrowserHistory();
                     history.push('/main');
+                    window.location.reload();
                 }else {
                     //dispatch(clearAccount());
-
+                    document.getElementById("miss").innerHTML = "username or password error";
                 }
             }
         }
     );
-}
-function doDispatchToProps(dispatch){
+}*/
+/*function doDispatchToProps(dispatch){
     return({
         setUsername:(event)=>dispatch(getUsername(event.target.value)),
         setPassword:(event)=>dispatch(getPassword(event.target.value)),
         login:(username,password)=>{
             sendAccount(username,password,dispatch);
+        },
+        toRegister:()=>{
+            const history = createBrowserHistory();
+            history.push('/register');
+        }
+    })
+}
+export const LoginPage = connect(mapStateToProps,doDispatchToProps)(Login);*/
+function doDispatchToProps(dispatch){
+    return({
+        setUsername:(event)=>dispatch(getUsername(event.target.value)),
+        setPassword:(event)=>dispatch(getPassword(event.target.value)),
+        login:(username,password)=>{
+            //sendAccount(username,password,dispatch);
+            $.ajax({
+                    url: "api/main",
+                    method:"POST",
+                    data:{
+                        password: password,
+                        username: username
+                    },
+                    async:false,
+                    success:function (res){
+                        if(res.success) {
+                            //let listContent = "";
+
+                            //alert(listContent);
+                            window.sessionStorage.setItem("list",JSON.stringify(res.dotList));
+
+                            window.sessionStorage.setItem("username",username);
+                            window.sessionStorage.setItem("password",password);
+                            const history = createBrowserHistory();
+                            history.push('/main');
+
+                            dispatch(clearDots());
+                            res.dotList.map((ele) => {
+                                //listContent = listContent + "\n" + ele.x + ", " + ele.y + ", " + ele.r + ", " + ele.hit + ", " + ele.date;
+                                dispatch(addDot(ele.x,ele.y+"",ele.r,ele.hit,ele.date));
+                            })
+                            window.location.reload();
+                        }else {
+                            //dispatch(clearAccount());
+                            //alert(res.message);
+                            document.getElementById("miss").innerHTML = "username or password error";
+                        }
+                    }
+                }
+            );
+
         },
         toRegister:()=>{
             const history = createBrowserHistory();

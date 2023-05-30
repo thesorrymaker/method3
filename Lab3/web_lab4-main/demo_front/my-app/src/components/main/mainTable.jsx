@@ -29,7 +29,7 @@ class ResultTable extends React.Component {
     render() {
         return (
             <div  className={"table_block"}>
-                <table  className={"result_table"}>
+                <table  className={"table table-striped table-bordered table-hover table-condensed"}>
 
                     <thead>
                     <tr>
@@ -41,15 +41,15 @@ class ResultTable extends React.Component {
                     </tr>
                     </thead>
                     <tbody>
-                    {this.state.data.map((ele) => (
-                        <tr>
+                    {this.state.data.map((ele,key) => {
+                        return <tr key={key}>
                             <th width={60}>{ele.x}</th>
                             <th width={60}>{ele.y}</th>
                             <th width={60}>{ele.r}</th>
-                            <th width={60}>{ele.hit+""}</th>
+                            <th width={60}>{ele.hit + ""}</th>
                             <th width={200}>{ele.date}</th>
                         </tr>
-                    ))}
+                    })}
                     </tbody>
                 </table>
             </div>

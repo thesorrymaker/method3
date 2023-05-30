@@ -1,9 +1,10 @@
-import React,{useState} from "react";
+import React from "react";
 import $ from "jquery";
-import '../../assets/css/addtional.css';
-import PropTypes, {number} from 'prop-types';
+import '../../assets/css/addtional.css'
+import PropTypes from 'prop-types';
 import {connect} from "react-redux";
-import {addDot, GetR, GetX, GetY} from "../reduxStore/action/action";
+import {addDot, clearDots, GetR, GetX, GetY} from "../reduxStore/action/action";
+
 
 //pure ui component,which only deal with view
 class CanvasForm extends React.Component{
@@ -38,7 +39,7 @@ class CanvasForm extends React.Component{
                             </label>
                             <br/>
                             <div className={"col-xs-10 col-sm-2"}>
-                                <NumericInput type={"text"} id="y" name={"Y"} className={"form-control"} value={Y} onChange={getY}/>
+                                <input type={"text"} id="y" name={"Y"} className={"form-control"} value={Y} onChange={getY}/>
 
 
                             </div>
@@ -58,6 +59,7 @@ class CanvasForm extends React.Component{
                             </div>
                         </div>
                         <div className={"form-group"}>
+                            <div id="abc"></div>
                           <button onClick={(event) => submitForm(X, Y, R, event)}>Add</button>
                         </div>
                     </form>
@@ -84,19 +86,18 @@ function mapStateToPros(state){
         R:state.dot.R,
     }
 }
-function NumericInput(){
+/*function NumericInput(){
     const [value,setValue]=useState('');
     const handleInputChange =(event) =>{
         const inputValue =event.target.value;
-        const nubValue = inputValue.replace(/[^0-9]/g,'');
-
-        setValue(nubValue);
+        const numValue = inputValue.replace(/[^-0-9]/g, ""); // 先将非数字的字符过滤掉
+        const validatedValue = Math.max(Math.min(numValue, 5), -5); // 然后对数值进行限制
+        setValue(validatedValue);
     };
-
     return (
         <input type="text" value={value} onChange={handleInputChange}/>
     )
-}
+}*/
 
 
 
@@ -120,10 +121,19 @@ function mapDispatchToProps(dispatch){
                 async:false,
                 success:function (res){
                     if(res.wrong) {
-                        alert(res.message);
+                        //alert(res.message);
+                        document.getElementById("abc").innerHTML = "y should be between -5 and 5";
                     }else {
-                        dispatch(addDot(res.x,res.y+"",res.r,res.hit,res.date));
+                        //dispatch(addDot(res.x,res.y+"",res.r,res.hit,res.date));
                         //alert("x="+res.x+" y="+res.y+" r="+res.r+" hit="+res.hit+" date="+res.date);
+                        let listContent = "";
+                        dispatch(clearDots());
+                        res.dotList.map((ele) => {
+                            //listContent = listContent + "\n" + ele.x + ", " + ele.y + ", " + ele.r + ", " + ele.hit + ", " + ele.date;
+                            dispatch(addDot(ele.x,ele.y+"",ele.r,ele.hit,ele.date));
+                        })
+                        //alert(listContent);
+                        window.sessionStorage.setItem("list",JSON.stringify(res.dotList));
                     }
                 }
             })

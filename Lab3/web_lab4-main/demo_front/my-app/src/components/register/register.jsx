@@ -5,11 +5,13 @@ import {getPassword, getUsername} from "../reduxStore/action/action";
 import {connect} from "react-redux";
 
 class RegisterBasic extends React.Component {
+
     render() {
         const {password, username,signUp,setUsername,setPassword} = this.props;
         return (
             <div>
-            <form id={"register_form"} className={"form-horizontal"}>
+
+            <form id={"register_form"} className={"form-horizontal"} >
                 <div>
                     Now you can sign up your own account!
                 </div>
@@ -29,7 +31,8 @@ class RegisterBasic extends React.Component {
                         <input type="password" className={"form-control"} value={password} onChange={setPassword}/>
                     </div>
                 </div>
-                <button onClick={() => signUp(username, password)}>Sign up</button>
+                <div id="message"></div>
+                <button type="button" onClick={() => signUp(username, password)}>Sign up</button>
             </form><br/>
             <a href={"/"}>Home</a>
             </div>
@@ -67,9 +70,11 @@ function register(username,password){
             async:false,
             success:function (res){
                 if(res.success){
-                    alert("success");
+                    //alert("success");
+                    document.getElementById("message").innerHTML = "success";
                 }else {
-                    alert(res.message);
+                    //alert(res.message);
+                    document.getElementById("message").innerHTML = res.message;
                 }
             }
         }

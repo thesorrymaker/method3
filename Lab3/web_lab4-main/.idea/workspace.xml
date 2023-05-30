@@ -10,6 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="451eff99-81ba-47a2-afbf-1779c599c23a" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab4temp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4temp/demo_front/.idea/demo_front.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab4webyh/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab4webyh/.idea/artifacts/lab4webyh_Web_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab4webyh/.idea/compiler.xml" afterDir="false" />
@@ -240,13 +242,13 @@
       <change afterPath="$PROJECT_DIR$/../untitled5/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled5/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled5/src/Calculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled5/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled5/src/test1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled5/untitled5.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled6/untitled6.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled7/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled7/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/untitled7.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/artifacts/spring_web_app_war.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/artifacts/spring_web_app_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web-lab-4-main/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
@@ -632,9 +634,7 @@
       <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web_lab4-main2/demo_back/src/test/java/com/example/demo_back/DemoBackApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web_lab4-main2/web_lab4-main2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
@@ -733,6 +733,7 @@
       <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/.idea/web_lab4-mainq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/demo_back/src/main/java/com/example/demo_back/controller/MainController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../web_lab4-mainq/demo_front/.idea/demo_front.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../yh-web-lab4/.idea/artifacts/yh_web_lab4_Web_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../yh-web-lab4/.idea/compiler.xml" afterDir="false" />
@@ -825,7 +826,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2N6R6VxvrsLdpmi8KHHAclv0TuL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -841,7 +844,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/82728/Documents/GitHub/web/Lab3/web_lab4-mainq&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/82728/Documents/GitHub/web/Lab3/Lab4temp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -925,6 +928,9 @@
       <workItem from="1679667412218" duration="10000" />
       <workItem from="1679667618014" duration="7383000" />
       <workItem from="1679911643809" duration="22000" />
+      <workItem from="1680095609817" duration="5558000" />
+      <workItem from="1680101348146" duration="26366000" />
+      <workItem from="1681667857457" duration="16000" />
     </task>
     <servers />
   </component>

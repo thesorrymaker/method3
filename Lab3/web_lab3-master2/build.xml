@@ -59,7 +59,7 @@
             <fileset dir="${build.snap}" excludes="**/**/Junit*,**/**/TestRunner.class,doc"/>
             <manifest>
                 <attribute name="Main-Class" value="${main_class}"/>
-                <attribute name="Build-Jdk" value="version 1.8.0_202"/>
+                <attribute name="Build-Jdk" value="version 17.0.2"/>
             </manifest>
         </jar>
     </target>
@@ -127,48 +127,43 @@
                 </fileset>
             </batchtest>
         </junit>
+    </target>
 
-
-
-        <exec executable="git" dir="${basedir}/github-repo">
-            <arg value="add"/>
-            <arg value="build/test-classes/TEST-JunitTestValidator.xml"/>
+    <target name="u" depends="report">
+        <echo message="Uploading JUnit report to GitHub"/>
+        <exec executable="git">
+            <arg value="clone"/>
+            <arg value="https://github.com/thesorrymaker/test"/>
+            <arg value="test-repo"/>
         </exec>
 
+        <echo message="Copying JUnit report to cloned repository"/>
+        <copy file="${build.report}/TEST-JunitTestValidator.xml" todir="test-repo"/>
 
+        <exec dir="test-repo" executable="git">
+            <arg value="add"/>
+            <arg value="TEST-JunitTestValidator.xml"/>
+        </exec>
 
+        <exec dir="test-repo" executable="git">
+            <arg value="commit"/>
+            <arg value="-m"/>
+            <arg value="Add JUnit report"/>
+        </exec>
 
+        <exec dir="test-repo" executable="git">
+            <arg value="push"/>
+            <arg value="origin"/>
+            <arg value="main"/>
+        </exec>
+
+        <echo message="JUnit report uploaded to GitHub"/>
     </target>
 
-    <macrodef name="git">
-        <attribute name="command" />
-        <attribute name="dir" default="" />
-        <element name="args" optional="true" />
-        <sequential>
-            <echo message="git @{command}" />
-            <exec executable="git" dir="@{dir}">
-                <arg value="@{command}" />
-                <args/>
-            </exec>
-        </sequential>
-    </macrodef>
 
-    <target name="version" description="Commits all changes to version git">
-        <input message="Commit message" addproperty="commit-message" />
 
-        <echo message="Commiting all changes with message ${commit-message}" />
-        <git command="add">
-            <args>
-                <arg value="." />
-            </args>
-        </git>
-        <git command="commit">
-            <args>
-                <arg value="-am ${commit-message}" />
-            </args>
-        </git>
-        <git command="push" />
-    </target>
+
+
 
 
 </project>
